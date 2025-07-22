@@ -8,6 +8,7 @@
     background: url("Camera.jpeg.avif");
     height: 100vh;
     min-width: 50%;
+    background-position: center center;
     background-size: cover;
     overflow:hidden;
 }
